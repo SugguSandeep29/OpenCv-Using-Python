@@ -1,7 +1,11 @@
 # OpenCv-Using-Python
  All types of Recognition are done by python
 
-### Hi there, I'm Suggu Sandeep  [codeSTACKr] [website] 👋
+### Hi there, I'm Suggu Sandeep [codeSTACKr][website] 👋
+
+[![Website](https://0vzvx7k2bkztitq3d5kmva-on.drv.tw/www.suggusandeep.com/#portfolio)](https://0vzvx7k2bkztitq3d5kmva-on.drv.tw/www.suggusandeep.com/#portfolio)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
 
 ## I'm a Student, Fat, Developer, and Mentor!
 
